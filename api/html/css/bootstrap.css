@@ -4965,6 +4965,13 @@ a.badge:focus {
   color: inherit;
   background-color: #eee;
 }
+.jumbotron-bookit{
+  padding-top: 30px;
+  padding-bottom: 8px;
+  margin-bottom: 15px;
+  color: inherit;
+  background-color: #eee;
+}
 .jumbotron h1,
 .jumbotron .h1 {
   color: inherit;
@@ -4985,6 +4992,14 @@ a.badge:focus {
 }
 .jumbotron .container {
   max-width: 100%;
+}
+
+.container-bookit{
+  padding-top: 30px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
 }
 @media screen and (min-width: 768px) {
   .jumbotron {

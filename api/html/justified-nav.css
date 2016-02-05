@@ -108,7 +108,7 @@ div.container{
 }
 
 .input-group{
-    display: none;
+  display: none;
 }
 
 .search-school{
@@ -222,8 +222,6 @@ h4.past-replies-header, h4.past-answers-header{
 div.reply-button{
     max-height: 10px;
     max-width: 10px;
-
-    
     margin-left: 61.5em;
     padding-bottom:-100px;
 }
